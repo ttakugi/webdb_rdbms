@@ -1,2 +1,3 @@
-class RdbmsApplicationMain {
+fun main() {
+    print("てすと")
 }
